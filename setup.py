@@ -37,7 +37,7 @@
 
 import os
 import imp
-from distutils.core import setup
+from setuptools import setup
 
 def get_deps(*args):
     deps = []
@@ -49,7 +49,7 @@ def get_deps(*args):
     return deps
 
 setup(
-    name='cask',
+    name='alembic-cask',
     version='1.0.2',
     description='Cask - High level convenience wrapper for Alembic files',
     author='Ryan Galloway',

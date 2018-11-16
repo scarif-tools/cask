@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: alembic-cask
+Version: 1.0.2
+Summary: Cask - High level convenience wrapper for Alembic files
+Home-page: http://docs.alembic.io/python/cask.html
+Author: Ryan Galloway
+Author-email: ryang@ilm.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
